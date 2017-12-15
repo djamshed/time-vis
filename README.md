@@ -62,16 +62,18 @@ Five years of traffic fatalities across the United States visualized on a Calend
 
 <br>
 
+
 [Github User Contribution Activity](https://github.com/mbostock)
 
-<image src="images/github.png" alt="page screenshot" title="Github User Activity" width="450">
+<img src="images/github.png" alt="page screenshot" title="Github User Activity" width="450">
 
 
 <br>
 
+
 [D3 Calendar](https://bl.ocks.org/mbostock/4063318)
 
-<image src="images/d3js.png" alt="page screenshot" title="D3 Calendar" width="450">
+<img src="images/d3js.png" alt="page screenshot" title="D3 Calendar" width="450">
 
 
 
