@@ -42,3 +42,38 @@ Discover objects from the British Museum’s collection from prehistory to the p
 
 
 -----
+
+
+## Five Years of Traffic Fatalities
+
+https://io9.gizmodo.com/5970486/visualizing-5-years-of-traffic-fatalities-what-is-the-deadliest-time-to-drive
+
+![page screenshot](images/traffic_fatalities.png "Five Years of Traffic Fatalities")
+
+Five years of traffic fatalities across the United States visualized on a Calendar Heatmap.
+
+
+#### Similar visuals:
+
+[Flowingdata: Calendar of Fatal Crashes](http://flowingdata.com/2012/01/11/vehicles-involved-in-fatal-crashes/)
+
+<image src="images/flowingdata_calendar.png" alt="page screenshot" title="Calendar of Fatal Crashes" width="450">
+
+
+<br>
+
+[Github User Contribution Activity](https://github.com/mbostock)
+
+<image src="images/github.png" alt="page screenshot" title="Github User Activity" width="450">
+
+
+<br>
+
+[D3 Calendar](https://bl.ocks.org/mbostock/4063318)
+
+<image src="images/d3js.png" alt="page screenshot" title="D3 Calendar" width="450">
+
+
+
+-----
+
