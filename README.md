@@ -19,9 +19,15 @@ Discover objects from the British Museum’s collection from prehistory to the p
 ![page screenshot](images/music_timeline.png "Music Timeline")
 
 
+<br>
+
+
 [Guardian's Arab Spring - The Path of Protest](https://www.theguardian.com/world/interactive/2011/mar/22/middle-east-protest-interactive-timeline) (requires Flash player 😞)
 
 ![page screenshot](images/path_of_protest.jpg "Arab Spring Timeline")
+
+
+<br>
 
 
 [Guitar Hero](https://www.guitarhero.com/)
@@ -57,7 +63,7 @@ Five years of traffic fatalities across the United States visualized on a Calend
 
 [Flowingdata: Calendar of Fatal Crashes](http://flowingdata.com/2012/01/11/vehicles-involved-in-fatal-crashes/)
 
-<image src="images/flowingdata_calendar.png" alt="page screenshot" title="Calendar of Fatal Crashes" width="450">
+<img src="images/flowingdata_calendar.png" alt="page screenshot" title="Calendar of Fatal Crashes" width="450">
 
 
 <br>
@@ -76,6 +82,14 @@ Five years of traffic fatalities across the United States visualized on a Calend
 <img src="images/d3js.png" alt="page screenshot" title="D3 Calendar" width="450">
 
 
-
 -----
+
+
+## Mountains out of Molehills
+
+http://www.informationisbeautiful.net/visualizations/mountains-out-of-molehills/
+
+![page screenshot](images/mountains.png "Mountains out of Molehills")
+
+Normally, area chart + overlapping metrics + 3D space is the perfect recipe for a disaster. Except, it isn't in this visual. This interactive visual delivers the message clearly without any interaction. Neat colors, meaningful interactive options and positioning in (surprise!) 3D space makes this visual great.
 
