@@ -93,3 +93,15 @@ http://www.informationisbeautiful.net/visualizations/mountains-out-of-molehills/
 
 Normally, area chart + overlapping metrics + 3D space is the perfect recipe for a disaster. Except, it isn't in this visual. This interactive visual delivers the message clearly without any interaction. Neat colors, meaningful interactive options and positioning in (surprise!) 3D space makes this visual great.
 
+
+-----
+
+
+## Time Machine (MacOS)
+
+https://en.wikipedia.org/wiki/Time_Machine_(macOS)
+
+![page screenshot](images/time_machine.jpg "MacOS Time Machine")
+
+Time machine allows an increadibly easy way to navigate through the folder snapshots. The timeline on the right is useful to see a "big picture" of all backups and jumping into a particular time frame.
+
