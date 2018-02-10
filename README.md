@@ -1,6 +1,6 @@
 # time-vis
 
-A collection of visuals that represent time
+Other people did some amazing time visualizations, I collect them here.
 
 
 ## The Museum of the World
